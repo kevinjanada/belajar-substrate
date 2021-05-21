@@ -1,0 +1,13 @@
+{
+    "AccountInfo": "AccountInfoWithDualRefCount",
+    "Address": "MultiAddress",
+    "LookupSource": "MultiAddress",
+    "AccountIdOf": "AccountId",
+    "HashOf": "H256",
+    "Nft": {
+        "id": "H256",
+        "owner_id": "AccountId",
+        "name": "Text",
+        "image": "Text"
+    }
+}
